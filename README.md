@@ -26,4 +26,6 @@ Change the variable values accordingly.
     docker-compose exec db psql -h localhost -U postgres --dbname=postgres
 
 ## References
-The React-FastAPI Starter Project is inspired by [Jeff Astor](https://www.jeffastor.com/blog/up-and-running-with-fastapi-and-docker)
+The React-FastAPI Starter Project is inspired by
+- [Jeff Astor](https://www.jeffastor.com/blog/up-and-running-with-fastapi-and-docker)
+- [full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql)
